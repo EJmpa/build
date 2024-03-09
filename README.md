@@ -19,26 +19,26 @@ This project implements an AI-powered Python code generation and explanation too
 ### Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
-   \`\`\`
+   ```
 
-Install dependencies:
+2. Install dependencies:
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
 Run the application:
 
-\`\`\`bash
+```bash
 chainlit run run.py -w
-\`\`\`
+```
 
-Start interacting with the AI Python Coder:
+# Start interacting with the AI Python Coder:
 
 Send natural language requests as messages to the system.
 
