@@ -20,7 +20,7 @@ This project implements an AI-powered Python code generation and explanation too
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Ejmpa/repo.git
    cd your-repo
    ```
 
@@ -60,8 +60,3 @@ The project is evaluated using a simple metrics: `Response time (Latency)`
 - OpenAI for providing the GPT-3.5 language model.
 - ChainLit framework for simplifying the implementation of conversational AI.
 - langchain for interacting/communicating with the OpenAI API.
-
-
-Remember to customize the placeholders (`your-username`, `your-repo`, `your-api-key`, `your-email@example.com`).
-\`\`\`
-```
