@@ -21,7 +21,7 @@ This project implements an AI-powered Python code generation and explanation too
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ejmpa/repo.git
-   cd your-repo
+   cd repo
    ```
 
 2. Install dependencies:
